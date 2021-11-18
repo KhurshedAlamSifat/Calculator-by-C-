@@ -1,0 +1,10 @@
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\bin\Debug\CalculatorAssignment.exe.config
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\bin\Debug\CalculatorAssignment.exe
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\bin\Debug\CalculatorAssignment.pdb
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.csproj.AssemblyReference.cache
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.Form1.resources
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.Properties.Resources.resources
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.csproj.GenerateResource.cache
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.exe
+C:\Users\Khurshed Alam Sifat\source\repos\CalculatorAssignment\CalculatorAssignment\obj\Debug\CalculatorAssignment.pdb
